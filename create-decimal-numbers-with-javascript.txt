@@ -1,0 +1,9 @@
+** start of script.js **
+
+var myDecimal = 5.7;
+
+// Only change code below this line
+
+
+** end of script.js **
+

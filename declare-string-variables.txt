@@ -1,0 +1,7 @@
+** start of script.js **
+
+var myFirstName ="Saru";
+var myLastName ="Marçal";
+
+** end of script.js **
+
